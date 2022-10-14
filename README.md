@@ -1,1 +1,1 @@
-# beginner-bee
+# Beginner Bee 🐝
